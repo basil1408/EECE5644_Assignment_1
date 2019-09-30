@@ -10,3 +10,4 @@ Q4: Two-class setting with equal class priors and a real-valued feature with Gau
         class posterior probabilities p(L = l|x) for l = 1, 2. Demonstrate the decision boundary you found earlier in these visualizations. <br/>
 Q5: Write code that takes in N, n, mu, and covariance matric and produces N samples of independent and identically distributed (iid) 
     n-dimensional random vectors [x1,x2,....,xN] drawn from N (mu,Covariance) using the linear transformation technique applied to samples     of z N(0, I).<br/>     
+Question 5 An edited code containig a few more lines of comments is uploaded in order to explain the error one might encounter while running the code. The error arises because of improper covariance matrix being given as input
